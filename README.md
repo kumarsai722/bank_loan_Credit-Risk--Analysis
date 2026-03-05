@@ -34,13 +34,15 @@ SQL (PostgreSQL)
 Power BI
 
 Bnak Loan Risk and Approval Analysis/
+Credit-Risk-Loan-Default-Analysis/
 │
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── images/
-├── README.md
+├── Pandas_Data_Cleaning/     → Data cleaning & EDA notebook
+├── Sql_query/                → SQL analysis queries
+├── Powerbi_Dashboard/        → Power BI dashboard file
+├── Screenshots/              → Dashboard visuals
+├── bank_loan_raw_file/       → Original dataset
+├── LICENSE
+└── README.md
 
 🧹 Data Cleaning Process
 
